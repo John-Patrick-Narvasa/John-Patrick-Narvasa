@@ -1,4 +1,6 @@
-## Hi there 👋
+## Wassup I'm just chilling yo...
+
+###and per every second I delve deep within this path, I slowly uncover the secrets of the AMOGUS
 
 <!--
 **John-Patrick-Narvasa/John-Patrick-Narvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
