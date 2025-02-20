@@ -1,7 +1,5 @@
 # Salutations, my name is John Patrick Narvasa
-
 Trying to figure out the most complex way to solve 1 + 1...
----
 
 ## Education
 ---
@@ -22,7 +20,7 @@ Trying to figure out the most complex way to solve 1 + 1...
   - Eclipse
   - VScode
 
-
+---
 ## Contacts
 - I don't :>, I live in cave
 <!--
