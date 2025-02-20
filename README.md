@@ -2,7 +2,7 @@
 Trying to figure out the most complex way to solve 1 + 1...
 
 ## Education
----
+
 - BS Computer Science
   - New Era University (2024-Present)
 
@@ -10,7 +10,7 @@ Trying to figure out the most complex way to solve 1 + 1...
 - If only I have one :(
 
 ## Skill Sets
----
+
 - *Programming Languages I know rn*
   - Java
   - Python
@@ -20,7 +20,7 @@ Trying to figure out the most complex way to solve 1 + 1...
   - Eclipse
   - VScode
 
----
+
 ## Contacts
 - I don't :>, I live in cave
 <!--
