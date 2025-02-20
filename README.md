@@ -16,16 +16,12 @@ Trying to figure out the most complex way to solve 1 + 1...
 - *Programming Languages I know rn*
   - Java
   - Python
-  - Javascript
- 
-- *Programming Languages*
-
-
+  - Javascript (and basically the big 3 of webdev tools)
+    
 - *Tools I know how to use*
   - Eclipse
   - VScode
-  - Postman
-  - MongoDB
+
 
 ## Contacts
 - I don't :>, I live in cave
