@@ -1,7 +1,34 @@
-## Wassup I'm just chilling yo...
+# Salutations, my name is John Patrick Narvasa
+
+Trying to figure out the most complex way to solve 1 + 1...
+---
+
+## Education
+---
+- BS Computer Science
+  - New Era University (2024-Present)
+
+## Certifications
+- If only I have one :(
+
+## Skill Sets
+---
+- *Programming Languages I know rn*
+  - Java
+  - Python
+  - Javascript
+ 
+- *Programming Languages*
 
 
+- *Tools I know how to use*
+  - Eclipse
+  - VScode
+  - Postman
+  - MongoDB
 
+## Contacts
+- I don't :>, I live in cave
 <!--
 **John-Patrick-Narvasa/John-Patrick-Narvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
