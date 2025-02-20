@@ -2,8 +2,7 @@
 Trying to figure out the most complex way to solve 1 + 1...
 
 ## Education
-
-- BS Computer Science
+**BS Computer Science**
   - New Era University (2024-Present)
 
 ## Certifications
@@ -11,12 +10,12 @@ Trying to figure out the most complex way to solve 1 + 1...
 
 ## Skill Sets
 
-- *Programming Languages I know rn*
+- **Programming Languages I know rn*
   - Java
   - Python
   - Javascript (and basically the big 3 of webdev tools)
     
-- *Tools I know how to use*
+- **Tools I know how to use**
   - Eclipse
   - VScode
 
