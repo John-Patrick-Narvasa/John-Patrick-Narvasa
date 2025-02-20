@@ -1,5 +1,6 @@
 # Salutations, my name is John Patrick Narvasa
-Trying to figure out the most complex way to solve 1 + 1...
+
+Trying to figure out the most complex way to solve 1 + 1... embracing unoptimization for optimization (or whatever it means)
 
 ## Education
 **BS Computer Science**
@@ -9,7 +10,6 @@ Trying to figure out the most complex way to solve 1 + 1...
 - If only I have one :(
 
 ## Skill Sets
-
 - **Programming Languages I know rn**
   - Java
   - Python
