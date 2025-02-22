@@ -23,7 +23,9 @@ Trying to figure out the most complex way to solve 1 + 1... this is the embracin
 
 
 ## Contacts
-- I don't :>, I live in cave
+- I don't :>, I live in cave, ooga booga!
+
+*insert visitor counter here (i'll make one I guess even if nobody visits me tho cuz I hab no frens :( )*
 <!--
 **John-Patrick-Narvasa/John-Patrick-Narvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
