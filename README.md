@@ -4,6 +4,13 @@ A non-sensical sensical figure that is probably on to or on something...
 
 Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=John-Patrick-Narvasa)
+
+## My Stats
+
+![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  
+![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false)   
+
 ## Education
 **BS Computer Science**
   - New Era University (2024-Present)
@@ -21,16 +28,18 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
   - Eclipse
   - VScode
 
-
 ## Contacts
-- I don't :>, I live in cave, ooga booga!
+<!--
+<p align="left">
+    <a href="mailto: narvasajohnpatrick@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
+    <a href="https://t.me/johnpatricknarvasa">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+-->
+- I don't :>, I live in cave, OOGA BOOGA!
 
-*insert visitor counter here (i'll make one I guess even if nobody visits me tho cuz I hab no frens :( )*
-## ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=John-Patrick-Narvasa)
-## My Stats
 
-![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  
-![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false)   
 
 
 
@@ -2599,10 +2608,18 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 
 
 
-## Here's a Rick Roll gif for you, that's what you get for being too curious :), get Rick Rolled fool >:)
+## Here's a Rick Roll gif for you, that's what you get for being too curious :), get Rick Rolled lol >:)
 ![rickroll-roll](https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7)
 
 
+### Now you got so far, Imma give you some fun facts about myself...
+1. I have no friends, please befriend me :(
+2. I compose music 
+3. I do beatboxing (7 years)
+4. I can do some decent voice impressions or imitating some accent
+5. I'm a geography and history nerd
+ 
+#### Basically fun stuff and more :), encapsulating the essence of being a student of life.
 <!--
 **John-Patrick-Narvasa/John-Patrick-Narvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
