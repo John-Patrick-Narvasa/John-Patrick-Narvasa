@@ -2620,7 +2620,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 4. I can do some decent voice impressions or imitating some accent
 5. I'm a geography and history nerd
  
-#### Basically fun stuff and more :), encapsulating the essence of being a student of life.
+#### Basically fun stuff and more :)
 <!--
 **John-Patrick-Narvasa/John-Patrick-Narvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
