@@ -78,7 +78,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 #
 #
 #
-# Dont't
+# Don't
 #
 #
 #
@@ -389,7 +389,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 #
 #
 #
-#
+# Please 
 #
 #
 #
@@ -1861,7 +1861,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 #
 #
 #
-#
+# I humbly request you to leave
 #
 #
 #
@@ -2522,7 +2522,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 #
 #
 #
-#
+# I'm warning you 
 #
 #
 #
@@ -2608,7 +2608,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 
 
 
-## Here's a Rick Roll gif for you, that's what you get for being too curious :), get Rick Rolled lol >:)
+## Get Rick Rolled lol >:) that's what you get for being too curious :)
 ![rickroll-roll](https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7)
 
 
