@@ -43,7 +43,23 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 
 
 
+# Nothing to see here now :)
 #
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# 
 #
 #
 #
@@ -60,22 +76,6 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 #
 #
 # Dont't
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 #
 #
 #
