@@ -46,7 +46,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 
 
 
-
+<!--
 # Nothing to see here now :)
 #
 #
@@ -2603,13 +2603,11 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 #
 # FINE!!!! 
 # HERE WE GO...
-
-
-
-
-
-
 ## Get Rick Rolled lol >:) that's what you get for being too curious :)
+-->
+
+
+### Here's a Rick Roll for ya, enjoy :)
 ![rickroll-roll](https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7)
 
 <!--
