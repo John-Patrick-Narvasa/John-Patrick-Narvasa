@@ -2612,7 +2612,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 ## Get Rick Rolled lol >:) that's what you get for being too curious :)
 ![rickroll-roll](https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7)
 
-
+<!--
 ### Now you got so far, Imma give you some fun facts about myself...
 1. I have no friends, please befriend me :(
 2. I compose music 
@@ -2621,6 +2621,8 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 5. I'm a geography and history nerd
  
 #### Basically fun stuff and more :)
+-->
+
 <!--
 **John-Patrick-Narvasa/John-Patrick-Narvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
