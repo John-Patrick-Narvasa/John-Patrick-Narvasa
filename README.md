@@ -1,12 +1,12 @@
+<!--
+![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif) 
+-->
+
 # Salutations, my name is John Patrick Narvasa, 
 
 A non-sensical sensical figure that is probably on to or on something...
 
 Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means)
-
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=John-Patrick-Narvasa)
-
 
 ## Education
 **BS Computer Science**
@@ -26,18 +26,19 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
   - VScode
 
 ## Contacts
-<!--
+
 <p align="left">
     <a href="mailto: narvasajohnpatrick@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
     <a href="https://t.me/johnpatricknarvasa">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+     <a href="https://bisaya.org/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
--->
-- I don't :>, I live in cave, OOGA BOOGA!
+<!-- I don't :>, I live in cave, OOGA BOOGA! -->
 
-## My Stats (It ain't much)
-
+## My Stats (It ain't that much)
+### ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=John-Patrick-Narvasa)
 ![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  
 ![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false) 
 
