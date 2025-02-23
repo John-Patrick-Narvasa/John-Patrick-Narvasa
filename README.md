@@ -26,8 +26,8 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 - I don't :>, I live in cave, ooga booga!
 
 *insert visitor counter here (i'll make one I guess even if nobody visits me tho cuz I hab no frens :( )*
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=John-Patrick-Narvasa)
-## Stats cuz I also wanna show but I'm insecure at the same time :)
+## ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=John-Patrick-Narvasa)
+## My Stats
 
 ![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  
 ![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false)   
