@@ -2612,7 +2612,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 ### Now you got so far, Imma give you some fun facts about myself...
 1. I have no friends, please befriend me :(
 2. I compose music 
-3. I do beatboxing (7 years)
+3. I do beatboxing
 4. I can do some decent voice impressions or imitating some accent
 5. I'm a geography and history nerd
  
