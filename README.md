@@ -2,7 +2,7 @@
 
 A non-sensical sensical figure that is probably on to or on something...
 
-Trying to figure out the most complex way to solve 1 + 1... this is the embracing of unoptimization for optimization to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means)
+Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means)
 
 ## Education
 **BS Computer Science**
