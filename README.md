@@ -16,14 +16,11 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 - If only I have one :(
 
 ## Skill Sets
-- **Programming Languages I know rn**
-  - Java
-  - Python
-  - Javascript (and basically the big 3 of webdev tools)
-    
-- **Tools I know how to use**
-  - Eclipse
-  - VScode
+| **Programming Languages I know rn**                            | **Tools I know how to use** |
+|---                                                             |---|
+|  Java                                                          | Eclipse                     |
+| Python                                                         | VScode                      |
+| Javascript (and basically the big 3 of webdev tools)           |                             |
 
 ## Contacts
 
@@ -39,8 +36,9 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 
 ## My Stats (It ain't that much)
 ### ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=John-Patrick-Narvasa)
-![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  
-![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false) 
+![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)    ![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false) 
+
+
 
 
 
