@@ -2613,14 +2613,13 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e0f52e80-507d-41d1-b04c-aae998cd7dc6" width=150/>
  </p>
-![oia-uia](https://github.com/user-attachments/assets/e0f52e80-507d-41d1-b04c-aae998cd7dc6)
 
 
 ### And here's A FISH :)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc" width=150/>
  </p>
-![fish-animal](https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc)
+
 
 <!--
 ### Now you got so far, Imma give you some fun facts about myself...
@@ -2631,19 +2630,4 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 5. I'm a geography and history nerd
  
 #### Basically fun stuff and more :)
--->
-
-<!--
-**John-Patrick-Narvasa/John-Patrick-Narvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
