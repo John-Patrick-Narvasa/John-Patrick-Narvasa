@@ -2609,10 +2609,17 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 ### Here's a U I I A I cat for ya, enjoy :)
 <!-- ![rickroll-roll](https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7) -->
 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e0f52e80-507d-41d1-b04c-aae998cd7dc6" width=150/>
+ </p>
 ![oia-uia](https://github.com/user-attachments/assets/e0f52e80-507d-41d1-b04c-aae998cd7dc6)
 
 
 ### And here's A FISH :)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc" width=150/>
+ </p>
 ![fish-animal](https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc)
 
 <!--
