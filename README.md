@@ -2620,7 +2620,7 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 <img src="https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc" width=150/>
  </p>
 
-
+[.](https://open.spotify.com/user/31bc26asr5bi67r5tvmmjzqad4ge)
 <!--
 ### Now you got so far, Imma give you some fun facts about myself...
 1. I have no friends, please befriend me :(
