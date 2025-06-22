@@ -15,16 +15,46 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
 ## Certifications
 - If only I have one :(
 
-## Skill Sets
-| **Programming Languages I know rn**                            | **Tools I know how to use** |
-|---                                                             |---|
-|  Java                                                          | Eclipse                     |
-| Python                                                         | VScode                      |
-| Javascript (and basically the big 3 of webdev tools)           |                             |
+<h1>
+Skill Sets
+</h1>
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>   &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp &nbsp
+</p>
+<p>
+  
+</p>
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>  &nbsp &nbsp
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp &nbsp
+</p>
+
+<!-- 
+https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg
+https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
+https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg
+https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg
+https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg
+https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
+https://www.vectorlogo.zone/logos/canva/canva-icon.svg
+https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
+https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg
+-->
+
+## My Stats (It ain't that much)
+ ![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  
+ ![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false) 
 
 ## Contacts
 
-<p align="left">
+<p align="center">
     <a href="mailto: narvasajohnpatrick@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
     <a href="https://t.me/johnpatricknarvasa">
@@ -33,11 +63,6 @@ Trying to figure out the most complex way to solve 1 + 1 for this is the embraci
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <!-- I don't :>, I live in cave, OOGA BOOGA! -->
-
-## My Stats (It ain't that much)
-| | |
-|---|---|
-| ![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  |  ![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false) |
 
 
 
