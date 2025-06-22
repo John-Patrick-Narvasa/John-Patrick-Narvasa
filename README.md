@@ -2,39 +2,38 @@
 ![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif) 
 -->
 
-# Salutations, my name is John Patrick Narvasa, 
+# Salutations, my name is John Patrick Narvasa
 
-A non-sensical sensical figure that is probably on to or on something...
+- A very determined BS Computer Science Student 
 
-Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means)
+- A non-sensical sensical figure that is probably on to or on something...
+
+- Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means...)
 
 ## Education
-**BS Computer Science**
-  - New Era University (2024-Present)
+|  School  | S.Y.   |
+|---|---|
+|New Era University|2024-Present|
 
-## Certifications
-- If only I have one :(
-
-<h1>
-Skill Sets
-</h1>
-
-<p align="center" >
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>   &nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp &nbsp
-</p>
-<p>
+<div align="center">
+  <h2>My Tech Stack and Tools</h2>
   
-</p>
-<p align="center" >
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>  &nbsp &nbsp
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp &nbsp
-</p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>   &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp &nbsp
+    <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>  &nbsp &nbsp
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
+    <br>
+    <img src="https://github.com/user-attachments/assets/b1d88221-cf92-4a2a-8c45-809ffc6c2534" alt="vscode" width="5%"/>  &nbsp &nbsp
+    <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>  &nbsp &nbsp
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp &nbsp
+  </p>
+</div>
 
 <!-- 
 https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg
@@ -48,24 +47,59 @@ https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
 https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg
 -->
 
-## My Stats (It ain't that much)
- ![John Patrick's Stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true)  
- ![John Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false) 
+<h2 align="center">  
+My Stats (It ain't that much)
+</h2>
 
-## Contacts
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false">
+</div>
 
-<p align="center">
-    <a href="mailto: narvasajohnpatrick@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
-    <a href="https://t.me/johnpatricknarvasa">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-     <a href="https://bisaya.org/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<div>
+  <h2>Certifications</h2>
+  <ul>
+    <li>If only I have one :(</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h2>Contacts</h2>
+
+  <p align="center">
+      <a href="mailto: narvasajohnpatrick@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
+      <a href="https://t.me/johnpatricknarvasa">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+       <a href="https://bisaya.org/">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+</div>
+
 <!-- I don't :>, I live in cave, OOGA BOOGA! -->
 
 
-
+<div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
 
 
 
@@ -2631,19 +2665,29 @@ https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg
 -->
 
 
-### Here's a U I I A I cat for ya, enjoy :)
-<!-- ![rickroll-roll](https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7) -->
+<div align="center">
+  <h2>Here's a U I I A I cat for ya, enjoy :)</h2>
+  
+  <p>
+  <img src="https://github.com/user-attachments/assets/e0f52e80-507d-41d1-b04c-aae998cd7dc6" width=150/>
+   </p>
+</div>
 
+<div align="center">
+  <h2>And here's A FISH :)</h2>
+  
+  <p>
+  <img src="https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc" width=150/>
+   </p>
+</div>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e0f52e80-507d-41d1-b04c-aae998cd7dc6" width=150/>
- </p>
-
-
-### And here's A FISH :)
-<p align="center">
-<img src="https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc" width=150/>
- </p>
+<div align="center">
+  <h2>And get Rick Rolled buddy! >:)</h2>
+  
+  <p>
+  <img src="https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7" width=150/>
+   </p>
+</div>
 
 [.](https://open.spotify.com/user/31bc26asr5bi67r5tvmmjzqad4ge)
 <!--
