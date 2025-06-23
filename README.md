@@ -57,7 +57,7 @@ My Stats (It ain't that much)
 </div>
 
 <div>
-  <h2>Certifications</h2>
+  <h2 align="center">Certifications</h2>
   <ul>
     <li>If only I have one :(</li>
   </ul>
