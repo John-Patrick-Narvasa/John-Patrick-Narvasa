@@ -24,10 +24,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>   &nbsp &nbsp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="5%"/> &nbsp &nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="5%"/>
     <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="5%"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>  &nbsp &nbsp
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="5%"/> &nbsp &nbsp
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="5%"/> &nbsp &nbsp
     <br>
     <img src="https://github.com/user-attachments/assets/b1d88221-cf92-4a2a-8c45-809ffc6c2534" alt="vscode" width="5%"/>  &nbsp &nbsp
     <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>  &nbsp &nbsp
@@ -37,15 +40,12 @@
 </div>
 
 <!-- 
-https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg
-https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
-https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg
-https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg
-https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg
-https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
-https://www.vectorlogo.zone/logos/canva/canva-icon.svg
-https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
-https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 -->
 
 <h2 align="center">  
