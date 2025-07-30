@@ -60,7 +60,7 @@ My Stats (It ain't that much)
 <div>
   <h2 align="center">Certifications</h2>
   <ul>
-    <li>If only I have one :(</li>
+    <li>Youtube tutorials</li>
   </ul>
 </div>
 
