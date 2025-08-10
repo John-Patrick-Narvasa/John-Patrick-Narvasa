@@ -16,12 +16,13 @@
 |New Era University|2024-Present|
 
 <div align="center">
-  <h2>My Tech Stack and Tools</h2>
+  <h2>Tech Stack and Tools used</h2>
   
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp &nbsp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp &nbsp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>   &nbsp &nbsp
+    <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp &nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="5%"/> &nbsp &nbsp
