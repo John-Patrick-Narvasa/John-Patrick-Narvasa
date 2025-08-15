@@ -2684,7 +2684,7 @@ My Stats (It ain't that much)
   <img src="https://github.com/user-attachments/assets/08a6a5a1-4d34-496d-97fe-75330ce03ccc" width=150/>
    </p>
 </div>
-
+<!-- 
 <div align="center">
   <h2>And get Rick Rolled buddy! >:)</h2>
   
@@ -2692,6 +2692,9 @@ My Stats (It ain't that much)
   <img src="https://github.com/user-attachments/assets/b60e2932-f9b5-4a1d-a729-b2ba7f8c2cd7" width=150/>
    </p>
 </div>
+-->
+
+
 
 [.](https://open.spotify.com/user/31bc26asr5bi67r5tvmmjzqad4ge)
 <!--
