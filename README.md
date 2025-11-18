@@ -63,13 +63,16 @@ My Stats (It ain't that much)
 <div>
   <h2 align="center">Certifications</h2>
   <ul>
-    <li>Youtube tutorials</li>
   </ul>
 </div>
 
 <div align="center">
-  <h2>Contacts</h2>
 
+|  Certificate  | Issued By   |  Month   |
+|---|---|---|
+|  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2024  |
+
+  <h2>Contacts</h2>
   <p align="center">
       <a href="mailto: narvasajohnpatrick@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
