@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif) 
 -->
 
-# Salutations, my name is John Patrick Narvasa
+# Hello, my name is John Patrick Narvasa
 
 - A very determined BS Computer Science Student 
 
