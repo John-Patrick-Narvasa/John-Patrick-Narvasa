@@ -11,12 +11,29 @@
 - Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means...)
 
 ## Education
+<div align="center">
+  
 |  School  | S.Y.   |
 |---|---|
 |New Era University|2024-Present|
+  
+<div>
+
+
+<div>
+  <h2 align="center">Certifications</h2>
+  <ul>
+  </ul>
+</div>
 
 <div align="center">
-  <h2>Tech Stack and Tools used</h2>
+
+|  Certificate  | Issued By   |  Month   |
+|---|---|---|
+|  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2024  |
+
+<div align="center">
+  <h2>Skillsets</h2>
   
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp &nbsp
@@ -59,18 +76,6 @@ My Stats (It ain't that much)
   <img src="https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false">
 </div>
-
-<div>
-  <h2 align="center">Certifications</h2>
-  <ul>
-  </ul>
-</div>
-
-<div align="center">
-
-|  Certificate  | Issued By   |  Month   |
-|---|---|---|
-|  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2024  |
 
   <h2>Contacts</h2>
   <p align="center">
