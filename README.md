@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif) 
 -->
 
-# Hello, my name is John Patrick Narvasa
+<h1 align="center"> Hello, my name is John Patrick Narvasa</h1>
 
 - A very determined BS Computer Science Student 
 
@@ -10,7 +10,7 @@
 
 - Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means...)
 
-## Education
+<h2 align="center">Education</h2>
 <div align="center">
   
 |  School  | S.Y.   |
