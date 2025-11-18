@@ -2676,7 +2676,7 @@ My Stats (It ain't that much)
 ## Get Rick Rolled lol >:) that's what you get for being too curious :)
 -->
 
-
+<!--
 <div align="center">
   <h2>Here's a U I I A I cat for ya, enjoy :)</h2>
   
@@ -2705,6 +2705,9 @@ My Stats (It ain't that much)
 
 
 [.](https://open.spotify.com/user/31bc26asr5bi67r5tvmmjzqad4ge)
+
+
+
 <!--
 ### Now you got so far, Imma give you some fun facts about myself...
 1. I have no friends, please befriend me :(
