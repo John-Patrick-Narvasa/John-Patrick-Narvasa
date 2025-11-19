@@ -70,17 +70,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 -->
-
-<h2 align="center">  
-My Stats (It ain't that much)
-</h2>
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false">
-</div>
-
-  <h2>Contacts</h2>
+<h2>Contacts</h2>
   <p align="center">
       <a href="mailto: narvasajohnpatrick@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
@@ -89,6 +79,16 @@ My Stats (It ain't that much)
        <a href="https://bisaya.org/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
+
+<h2 align="center">  
+My Stats
+</h2>
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=John-Patrick-Narvasa&theme=dark&show_icons=true&hide_border=false&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Narvasa&theme=dark&hide_border=false">
+</div>
+
 </div>
 
 <!-- I don't :>, I live in cave, OOGA BOOGA! -->
