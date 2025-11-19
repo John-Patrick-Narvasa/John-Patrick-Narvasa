@@ -2,14 +2,17 @@
 ![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif) 
 -->
 
-<h1 align="center"> Hello, my name is John Patrick Narvasa</h1>
+<h1 align="center"> Hello, I am John Patrick Narvasa</h1>
 
+Welcome to my GitHub profile! I am a dedicated BS Computer Science student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
+
+<!--
 - A very determined BS Computer Science Student 
 
 - A non-sensical sensical figure that is probably on to or on something...
 
 - Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means...)
-
+-->
 <h2 align="center">Education</h2>
 <div align="center">
   
@@ -30,7 +33,7 @@
 
 |  Certificate  | Issued By   |  Month   |
 |---|---|---|
-|  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2024  |
+|  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2025  |
 
 <div align="center">
   <h2>Skillsets</h2>
