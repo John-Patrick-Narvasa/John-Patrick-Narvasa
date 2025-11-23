@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 <h2 align="center">Education</h2>
 <div align="center">
   
-|  School  | S.Y.   |
-|---|---|
-|New Era University|2024-Present|
+| Program |  School  | School Year   |
+|---|---|---|
+|BS Computer Science|New Era University|2024-Present|
   
 <div>
 
