@@ -35,35 +35,62 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 |---|---|---|
 |  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2025  |
 
+
 <div align="center">
   <h2>Skillsets</h2>
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp &nbsp
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp &nbsp
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>   &nbsp &nbsp
-    <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="5%"/> &nbsp &nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react.js" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitej.s" width="5%"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="5%"/>
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="5%"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>  &nbsp &nbsp
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="5%"/> &nbsp &nbsp
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="5%"/> &nbsp &nbsp
-    <br>
-    <img src="https://github.com/user-attachments/assets/b1d88221-cf92-4a2a-8c45-809ffc6c2534" alt="vscode" width="5%"/>  &nbsp &nbsp
-    <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>  &nbsp &nbsp
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp &nbsp
-    <img src="https://github.com/user-attachments/assets/fe9bf742-1197-4889-87a5-21b7c029fa08" alt="drawio" width="5%"/>  &nbsp &nbsp
-  </p>
+  <table border="0" cellpadding="10" cellspacing="0" style="width: auto; margin: 0 auto;">
+    <tbody>
+      <tr>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Languages:</td>
+        <td style="text-align: left;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp; &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">WebDev:</td>
+        <td style="text-align: left;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp; &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="material ui" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react.js" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitej.s" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="5%"/> &nbsp; &nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Databases:</td>
+        <td style="text-align: left;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="5%"/> &nbsp; &nbsp;
+          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Tools:</td>
+        <td style="text-align: left;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="5%"/> &nbsp; &nbsp;
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="ibm cloud" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://github.com/user-attachments/assets/fe9bf742-1197-4889-87a5-21b7c029fa08" alt="drawio" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://cdn.brandfetch.io/idXj8rnXDZ/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="lucid chart" width="5%"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">IDEs:</td>
+        <td style="text-align: left;">
+          <img src="https://github.com/user-attachments/assets/b1d88221-cf92-4a2a-8c45-809ffc6c2534" alt="vscode" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <!-- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
@@ -76,7 +103,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
       <a href="https://t.me/johnpatricknarvasa">
           <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-       <a href="https://bisaya.org/">
+       <a href="https://www.linkedin.com/in/john-patrick-narvasa-a479a3327/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 
