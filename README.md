@@ -23,17 +23,24 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 <div>
 
 
-<div>
-  <h2 align="center">Certifications</h2>
-  <ul>
-  </ul>
-</div>
 
+<h2 align="center">Course Certifications</h2>
 <div align="center">
 
 |  Certificate  | Issued By   |  Month   |
 |---|---|---|
 |  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2025  |
+
+<h2 align="center">Seminar Certifications</h2>
+<div align="center">
+  
+|  Certificate  | Issued By   |  Month   |
+|---|---|---|
+|  [Data Driven Facilities Management: The Future Of Smart Spaces](https://drive.google.com/file/d/1ziRExVmEkXQCflBitnGrhicGb8y1lKfr/view?usp=drive_link)  |  NEU CICS  |  April 2024  |
+|  [Guide To Fullstack Development - From Zero To Hero](https://drive.google.com/file/d/11I8nH-Kbt6YRIbH2opkfDX-mc5IH6ENw/view?usp=drive_link)  |  NEU CICS  |  April 2024  |
+|  [LLMS Demystified: How Machines BecomeTalkative](https://drive.google.com/file/d/1x_tipzYHoC-VIwZylM0b4nr9dfHnbRdq/view?usp=drive_link)  |  NEU CICS  |  April 2024  |
+|  [Optimizing AI Potential: Balancing Prompt Engineering](https://drive.google.com/file/d/1-bXor0s6BX2C_QNQimCUmGVIXlfkiCDe/view?usp=drive_link)  |  NEU CICS  |  April 2024  |
+|  [The Art Of Effective Communication: Becoming a Leader People Trust](https://drive.google.com/file/d/1UFKxAyv3XiQ0GoS_RKoac2_2P3S8yGUa/view?usp=drive_link)  |  NEU CICS  |  April 2024  |
 
 
 <div align="center">
@@ -57,8 +64,8 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="material ui" width="5%"/> &nbsp; &nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react.js" width="5%"/> &nbsp; &nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitej.s" width="5%"/>  &nbsp; &nbsp;
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="5%"/>  &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="5%"/> &nbsp; &nbsp;
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="5%"/>  &nbsp; &nbsp;
         </td>
       </tr>
       <tr>
