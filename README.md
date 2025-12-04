@@ -29,6 +29,11 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 
 |  Certificate  | Issued By   |  Month   |
 |---|---|---|
+| [Introduction to Prompt Engineering](https://simpli-web.app.link/e/ChFbMFmjPYb) | SimpliLearn SkillUP | September 2024  |
+| [Introduction to Web Scraping Python ](https://simpli-web.app.link/e/avVJhaYiPYb)| SimpliLearn SkillUP | September 2024  |
+| [Natural Language Processing (NLP) and Text Mining Tutorial for Beginners](https://simpli-web.app.link/e/lo45KtzjPYb) | SimpliLearn SkillUP | September 2024 |
+| [Introduction to Front End Development](https://simpli-web.app.link/e/pmh7ARzjPYb) | SimpliLearn SkillUP | September 2024  |
+| [Become job-ready in coding: Basics of Data Structures and Algorithms](https://simpli-web.app.link/e/LnqyTYzjPYb) | SimpliLearn SkillUP | September 2024 |
 |  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class  |  November 2025  |
 
 <h2 align="center">Seminar Certifications</h2>
