@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
   <table border="0" cellpadding="10" cellspacing="0" style="width: auto; margin: 0 auto;">
     <tbody>
       <tr>
-        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Languages:</td>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Languages</td>
         <td style="text-align: left;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp; &nbsp;
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp; &nbsp;
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         </td>
       </tr>
       <tr>
-        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">WebDev:</td>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">WebDev</td>
         <td style="text-align: left;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp; &nbsp;
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp; &nbsp;
@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         </td>
       </tr>
       <tr>
-        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Databases:</td>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Databases</td>
         <td style="text-align: left;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="5%"/> &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="5%"/>  &nbsp; &nbsp;
@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         </td>
       </tr>
       <tr>
-        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Tools:</td>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Tools</td>
         <td style="text-align: left;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="5%"/> &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp; &nbsp;
@@ -94,7 +94,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         </td>
       </tr>
       <tr>
-        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">IDEs:</td>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">IDEs</td>
         <td style="text-align: left;">
           <img src="https://github.com/user-attachments/assets/b1d88221-cf92-4a2a-8c45-809ffc6c2534" alt="vscode" width="5%"/>  &nbsp; &nbsp;
           <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>
