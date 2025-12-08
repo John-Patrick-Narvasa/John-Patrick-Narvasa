@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 | [Become job-ready in coding: Basics of Data Structures and Algorithms](https://simpli-web.app.link/e/LnqyTYzjPYb) | SimpliLearn SkillUP | September 2024 |
 |  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/42e1f5c601bf44cc804490d89e4c03dd)  |  Cognitive Class (IBM)  |  November 2025  |
 |   [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6F4C72B1F04688B320ABF3887A21A5017624BE7428F356D3E0F76F873FB294F9) |  Oracle University  |  December 2025  |
+| [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=55C20E58DFE7093BAED3BB1D3376A49A584B1446E7AF37320E3A409D21DD8992)  |  Oracle University  |  December 2025  |
 | [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EC70BA388EB8199BA4FDB0C57DA281D432EAE714FF415AC117FE25CD621CFF26)   |  Oracle University  |  December 2025  |
 
 <h2 align="center">Seminar Certifications</h2>
