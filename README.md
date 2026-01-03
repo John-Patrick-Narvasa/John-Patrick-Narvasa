@@ -102,6 +102,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
       <tr>
         <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Tools</td>
         <td style="text-align: left;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="google colab" width="5%"/>  &nbsp; &nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="5%"/> &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="ibm cloud" width="5%"/>  &nbsp; &nbsp;
@@ -114,7 +115,6 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         <td style="text-align: left;">
           <img src="https://github.com/user-attachments/assets/b1d88221-cf92-4a2a-8c45-809ffc6c2534" alt="vscode" width="5%"/>  &nbsp; &nbsp;
           <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>  &nbsp; &nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="google colab" width="5%"/>  &nbsp; &nbsp;
         </td>
       </tr>
     </tbody>
