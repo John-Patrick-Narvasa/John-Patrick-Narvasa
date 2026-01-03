@@ -77,6 +77,13 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         </td>
       </tr>
       <tr>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">AI/ML</td>
+        <td style="text-align: left;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter notebooks" width="5%"/> &nbsp; &nbsp;
+        </td>
+      </tr>
+      <tr>
         <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Databases</td>
         <td style="text-align: left;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="5%"/> &nbsp; &nbsp;
@@ -106,9 +113,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 </div>
 
 <!-- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 -->
