@@ -1,4 +1,4 @@
-<!--
+<!-- <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a7fc56b8-ed20-4391-bdf1-b8524ce3a2cd" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6ffe67c6-f96e-4803-93f5-f4892e247d15" /><!--
 ![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif) 
 -->
 
@@ -84,6 +84,14 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         </td>
       </tr>
       <tr>
+        <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">LLMs</td>
+        <td style="text-align: left;">
+          <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama-dark.svg" alt="OLlama" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767358843567" alt="langchain" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.brandfetch.io/idVnR3bvOV/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1765224810016" alt="gemini" width="5%"/> &nbsp; &nbsp;
+        </td>
+      </tr>
+      <tr>
         <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">Databases</td>
         <td style="text-align: left;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="5%"/> &nbsp; &nbsp;
@@ -105,7 +113,8 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         <td style="font-weight: bold; vertical-align: top; text-align: right; padding-right: 20px; white-space: nowrap;">IDEs</td>
         <td style="text-align: left;">
           <img src="https://github.com/user-attachments/assets/b1d88221-cf92-4a2a-8c45-809ffc6c2534" alt="vscode" width="5%"/>  &nbsp; &nbsp;
-          <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>
+          <img src="https://github.com/user-attachments/assets/3fc37e11-c0c9-4178-93a1-5ec3e1e00038" alt="eclipse" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="google colab" width="5%"/>  &nbsp; &nbsp;
         </td>
       </tr>
     </tbody>
@@ -116,6 +125,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />          
 -->
 <h2>Contacts</h2>
   <p align="center">
@@ -2767,4 +2777,4 @@ My Stats
 5. I'm a geography and history nerd
  
 #### Basically fun stuff and more :)
--->
+--> -->
