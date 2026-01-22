@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 |   [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6F4C72B1F04688B320ABF3887A21A5017624BE7428F356D3E0F76F873FB294F9) |  Oracle University  |  December 2025  |
 | [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=55C20E58DFE7093BAED3BB1D3376A49A584B1446E7AF37320E3A409D21DD8992)  |  Oracle University  |  December 2025  |
 | [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EC70BA388EB8199BA4FDB0C57DA281D432EAE714FF415AC117FE25CD621CFF26)   |  Oracle University  |  December 2025  |
+| [The Complete Full-Stack Web Development Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e5d07db8-5138-46b2-9c2a-b0da3b4d3172.pdf#/)   |  Udemy  |  January 2026  |
 
 <h2 align="center">Seminar Certifications</h2>
 <div align="center">
