@@ -2,9 +2,9 @@
 ![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif) 
 -->
 
-<h1 align="center"> Hello, I am John Patrick Narvasa</h1>
+<h1 align="center"> Hello, I am Balls</h1>
 
-Welcome to my GitHub profile! I am a dedicated BS Computer Science student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
+Welcome to my GitHub profile! I am a Ball
 
 <!--
 - A very determined BS Computer Science Student 
