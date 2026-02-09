@@ -89,7 +89,6 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         <td style="text-align: left;">
           <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama-dark.svg" alt="OLlama" width="5%"/> &nbsp; &nbsp;
           <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767358843567" alt="langchain" width="5%"/> &nbsp; &nbsp;
-          <img src="https://cdn.brandfetch.io/idVnR3bvOV/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1765224810016" alt="gemini" width="5%"/> &nbsp; &nbsp;
         </td>
       </tr>
       <tr>
