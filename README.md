@@ -151,27 +151,7 @@ My Stats
 <!-- I don't :>, I live in cave, OOGA BOOGA! -->
 
 
-<div>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</div>
+
 
 
 
