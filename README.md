@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 
 
 <div align="center">
-  <h2>Skillsets</h2>
+  <h2>Tools and Skillsets</h2>
   <table border="0" cellpadding="10" cellspacing="0" style="width: auto; margin: 0 auto;">
     <tbody>
       <tr>
