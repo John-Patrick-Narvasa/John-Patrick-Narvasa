@@ -4,15 +4,19 @@
 
 <h1 align="center"> Hello, I am John Patrick Narvasa</h1>
 
-Welcome to my GitHub profile! I am a dedicated BS Computer Science student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
-
 <!--
+Welcome to my GitHub profile! I am a dedicated BS Computer Science student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
+-->
+
+
 - A very determined BS Computer Science Student 
 
 - A non-sensical sensical figure that is probably on to or on something...
 
 - Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means...)
--->
+
+- Aspiring to be a Backend Web developer or AI/ML Engineer
+
 <h2 align="center">Education</h2>
 <div align="center">
   
