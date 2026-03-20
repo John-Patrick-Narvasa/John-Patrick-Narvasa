@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 
 - Trying to figure out the most complex way to solve 1 + 1 for this is the embracing of unoptimization for optimization, to see the beauty of the universe amidst its entropic nature and the society's bias to efficiency (or whatever that means...)
 
-- Aspiring to be a Backend Web developer or AI/ML Engineer
+- Aspiring to be a Backend Web developer and AI/ML Engineer
 
 <h2 align="center">Education</h2>
 <div align="center">
