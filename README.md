@@ -43,6 +43,11 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 | [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=55C20E58DFE7093BAED3BB1D3376A49A584B1446E7AF37320E3A409D21DD8992)  |  Oracle University  |  December 2025  |
 | [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EC70BA388EB8199BA4FDB0C57DA281D432EAE714FF415AC117FE25CD621CFF26)   |  Oracle University  |  December 2025  |
 | [The Complete Full-Stack Web Development Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e5d07db8-5138-46b2-9c2a-b0da3b4d3172.pdf#/)   |  Udemy  |  January 2026  |
+| [Introduction to Android Studio Course](https://simpli-web.app.link/e/j4LFM4GF53b)   |  SimpleLearn SkillUP  |  June 2026  |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/3d2c82e0-fd2a-4189-9bcd-1ed6cfd6ef4f)  |  Cisco Networking Academy  |  June 2026  |
+| [Introduction to Data Science](https://www.credly.com/badges/67129a65-cd2e-4211-925a-92d521e32b77)   |  Cisco Networking Academy  |  June 2026  |
+| [Networking Basics](https://www.credly.com/badges/789686ac-a5ca-4049-a00e-8193488b1879)   |  Cisco Networking Academy  |  June 2026  |
+| [Operating Systems Basics](https://www.credly.com/badges/33d0a4ce-23f7-4019-86bf-d32be592b99f)   | Cisco Networking Academy |  June 2026  |
 
 <h2 align="center">Seminar Certifications</h2>
 <div align="center">
