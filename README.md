@@ -70,7 +70,8 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
         <td style="text-align: left;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp; &nbsp;
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp; &nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="5%"/> &nbsp; &nbsp;
         </td>
       </tr>
       <tr>
@@ -84,6 +85,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitej.s" width="5%"/>  &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="5%"/> &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="5%"/>  &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron.js" width="5%"/>   &nbsp; &nbsp;
         </td>
       </tr>
       <tr>
@@ -116,7 +118,8 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%"/>  &nbsp; &nbsp;
           <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="ibm cloud" width="5%"/>  &nbsp; &nbsp;
           <img src="https://github.com/user-attachments/assets/fe9bf742-1197-4889-87a5-21b7c029fa08" alt="drawio" width="5%"/>  &nbsp; &nbsp;
-          <img src="https://cdn.brandfetch.io/idXj8rnXDZ/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="lucid chart" width="5%"/>
+          <img src="https://cdn.brandfetch.io/idXj8rnXDZ/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="lucid chart" width="5%"/> &nbsp; &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="5%" /> &nbsp; &nbsp;
         </td>
       </tr>
       <tr>
@@ -131,10 +134,10 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 </div>
 
 <!-- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 -->
 <h2>Contacts</h2>
   <p align="center">
